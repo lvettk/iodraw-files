@@ -10,18 +10,15 @@
         <mxCell id="wxhgTbGcNcDMfiiiHbt2-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wxhgTbGcNcDMfiiiHbt2-3" value="指导" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="410" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="wxhgTbGcNcDMfiiiHbt2-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wxhgTbGcNcDMfiiiHbt2-3" target="wxhgTbGcNcDMfiiiHbt2-1">
+        <mxCell id="wxhgTbGcNcDMfiiiHbt2-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="wxhgTbGcNcDMfiiiHbt2-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="450" as="sourcePoint" />
+            <mxPoint x="110" y="410" as="sourcePoint" />
             <mxPoint x="260" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wxhgTbGcNcDMfiiiHbt2-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wxhgTbGcNcDMfiiiHbt2-3" target="wxhgTbGcNcDMfiiiHbt2-2">
+        <mxCell id="wxhgTbGcNcDMfiiiHbt2-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="wxhgTbGcNcDMfiiiHbt2-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="450" as="sourcePoint" />
+            <mxPoint x="110" y="490" as="sourcePoint" />
             <mxPoint x="260" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -29,7 +26,7 @@
           <mxGeometry x="890" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wxhgTbGcNcDMfiiiHbt2-8" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="140" width="120" height="80" as="geometry" />
+          <mxGeometry x="310" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wxhgTbGcNcDMfiiiHbt2-9" value="密码&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%94%A8%E6%88%B7%E5%90%8D%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22310%22%20y%3D%22140%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="250" width="120" height="80" as="geometry" />
