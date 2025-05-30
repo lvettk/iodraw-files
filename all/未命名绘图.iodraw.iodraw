@@ -34,6 +34,9 @@
         <mxCell id="j419nFm_Pq8RneQ6ONE6-11" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j419nFm_Pq8RneQ6ONE6-12" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
