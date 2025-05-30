@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="j419nFm_Pq8RneQ6ONE6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j419nFm_Pq8RneQ6ONE6-1" target="j419nFm_Pq8RneQ6ONE6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-1" value="网络教学平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -16,7 +19,7 @@
         <mxCell id="j419nFm_Pq8RneQ6ONE6-4" value="考试与测评" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j419nFm_Pq8RneQ6ONE6-5" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j419nFm_Pq8RneQ6ONE6-5" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
