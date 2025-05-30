@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="j419nFm_Pq8RneQ6ONE6-1" value="网络教学平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j419nFm_Pq8RneQ6ONE6-2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j419nFm_Pq8RneQ6ONE6-2" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-3" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
