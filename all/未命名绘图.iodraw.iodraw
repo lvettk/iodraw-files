@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wxhgTbGcNcDMfiiiHbt2-7" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
