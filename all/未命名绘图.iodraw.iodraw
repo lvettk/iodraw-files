@@ -8,7 +8,10 @@
           <mxGeometry x="430" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wxhgTbGcNcDMfiiiHbt2-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wxhgTbGcNcDMfiiiHbt2-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="370" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
