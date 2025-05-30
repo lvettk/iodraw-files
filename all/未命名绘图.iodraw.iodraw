@@ -20,19 +20,19 @@
           <mxGeometry x="450" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-3" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-4" value="考试与测评" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-11" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-12" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-13" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-15" value="课程浏览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="860" width="120" height="60" as="geometry" />
