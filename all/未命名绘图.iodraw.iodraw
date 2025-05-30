@@ -22,6 +22,9 @@
         <mxCell id="j419nFm_Pq8RneQ6ONE6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="j419nFm_Pq8RneQ6ONE6-2" target="j419nFm_Pq8RneQ6ONE6-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="j419nFm_Pq8RneQ6ONE6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j419nFm_Pq8RneQ6ONE6-2" target="j419nFm_Pq8RneQ6ONE6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-2" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="730" width="120" height="60" as="geometry" />
         </mxCell>
@@ -38,7 +41,7 @@
           <mxGeometry y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-4" value="考试与测评" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-11" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="860" width="120" height="60" as="geometry" />
