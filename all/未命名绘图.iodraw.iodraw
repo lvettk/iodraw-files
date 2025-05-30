@@ -5,10 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wxhgTbGcNcDMfiiiHbt2-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wxhgTbGcNcDMfiiiHbt2-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wxhgTbGcNcDMfiiiHbt2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wxhgTbGcNcDMfiiiHbt2-3" target="wxhgTbGcNcDMfiiiHbt2-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wxhgTbGcNcDMfiiiHbt2-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="370" width="80" height="80" as="geometry" />
