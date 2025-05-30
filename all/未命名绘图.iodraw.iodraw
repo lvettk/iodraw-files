@@ -107,7 +107,7 @@
           <mxGeometry x="20" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wxhgTbGcNcDMfiiiHbt2-30" value="成绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="460" width="120" height="80" as="geometry" />
+          <mxGeometry x="-45" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wxhgTbGcNcDMfiiiHbt2-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wxhgTbGcNcDMfiiiHbt2-26" target="wxhgTbGcNcDMfiiiHbt2-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -149,7 +149,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wxhgTbGcNcDMfiiiHbt2-39" value="学习记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="460" width="120" height="80" as="geometry" />
+          <mxGeometry x="85" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wxhgTbGcNcDMfiiiHbt2-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wxhgTbGcNcDMfiiiHbt2-39" target="wxhgTbGcNcDMfiiiHbt2-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="670" as="sourcePoint" />
+            <mxPoint x="70" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
