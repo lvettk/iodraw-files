@@ -23,7 +23,7 @@
           <mxGeometry x="470" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-3" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j419nFm_Pq8RneQ6ONE6-4" value="考试与测评" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="600" width="120" height="60" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="j419nFm_Pq8RneQ6ONE6-12" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j419nFm_Pq8RneQ6ONE6-13" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j419nFm_Pq8RneQ6ONE6-13" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
