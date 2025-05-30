@@ -1,0 +1,58 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="ba2kPDZ86wVdyjF3er4R">
+    <mxGraphModel dx="1011" dy="622" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="c0NJdnoM5ADGlJ72TEcc-1" target="c0NJdnoM5ADGlJ72TEcc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="c0NJdnoM5ADGlJ72TEcc-1" target="c0NJdnoM5ADGlJ72TEcc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-1" value="明确数据域&lt;div style=&quot;font-size: 14px;&quot;&gt;按照特定标准对数据进行纵向划分&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="301" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="c0NJdnoM5ADGlJ72TEcc-2" target="c0NJdnoM5ADGlJ72TEcc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-2" value="构建业务总线矩阵" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="471" y="237" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="c0NJdnoM5ADGlJ72TEcc-3" target="c0NJdnoM5ADGlJ72TEcc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-3" value="明确统计指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="471" y="397" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="c0NJdnoM5ADGlJ72TEcc-4" target="c0NJdnoM5ADGlJ72TEcc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-4" value="数据调研&lt;div style=&quot;font-size: 14px;&quot;&gt;业务调研&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;需求分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="131" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="c0NJdnoM5ADGlJ72TEcc-8" target="c0NJdnoM5ADGlJ72TEcc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-8" value="维度模型设计&lt;div style=&quot;font-size: 14px;&quot;&gt;构建DWD层&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;构建DIM层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="624" y="237" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="c0NJdnoM5ADGlJ72TEcc-9" target="c0NJdnoM5ADGlJ72TEcc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-9" value="汇总模型设计&lt;div style=&quot;font-size: 14px;&quot;&gt;构建DWS层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="624" y="397" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="c0NJdnoM5ADGlJ72TEcc-10" target="c0NJdnoM5ADGlJ72TEcc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-10" value="开发" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="791" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0NJdnoM5ADGlJ72TEcc-11" value="调度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="941" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
